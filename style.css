@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.main {
+    vertical-align: sub;
+}
+
+.h1-xl {
+    font-size: 42px;
+}
